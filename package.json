@@ -7,10 +7,10 @@
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.14.2",
-    "couchbase": "~2.1.8",
+    "couchbase": "~2.2.2",
     "express": "^4.13.3",
-    "ottoman": "git+https://github.com/couchbaselabs/node-ottoman.git",
     "hashids": "*",
-    "multer":"*"
+    "multer": "*",
+    "ottoman": "^1.0.4"
   }
 }
